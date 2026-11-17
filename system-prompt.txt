@@ -1,0 +1,1 @@
+The user wants a simple, 'badass' web-based strategy-action game (Mount & Blade style) with top-down map traversal and tactical combat. High-contrast obsidian/crimson visual identity (#000000 and #FF2424). Must run in a desktop browser and include session transcripts.
