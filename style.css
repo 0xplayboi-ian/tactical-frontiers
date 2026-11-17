@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #000000;
+    color: #FFFFFF;
+    font-family: 'Courier New', monospace;
+    overflow: hidden;
+}
+
+canvas {
+    display: block;
+    cursor: crosshair;
+}
+
+#ui {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    pointer-events: none;
+    border-left: 2px solid #FF2424;
+    padding-left: 15px;
+}
+
+h1 {
+    color: #FF2424;
+    text-transform: uppercase;
+    font-size: 32px;
+    margin: 0;
+    letter-spacing: 0.1em;
+}
