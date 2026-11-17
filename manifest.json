@@ -1,0 +1,6 @@
+{
+  "name": "Tactical Frontiers",
+  "version": "1.0.0",
+  "description": "Mount & Blade strategy-action game",
+  "main": "main.ts"
+}
